@@ -3,7 +3,7 @@ package com.function;
 import java.util.*;
 import com.microsoft.azure.functions.annotation.*;
 import com.microsoft.azure.functions.*;
-import Jsoup;
+import org.jsoup.*;
 
 /**
  * Azure Functions with HTTP Trigger.
